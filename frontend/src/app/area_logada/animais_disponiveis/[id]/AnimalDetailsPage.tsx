@@ -63,8 +63,8 @@ export function AnimalDetailsPage() {
             modules={[Pagination]}
             pagination={{ clickable: true }}
           >
-            {animal.images.map((image, index) => (
-              <S.AnimalPictureSwiperSlide key={index}>
+            {animal.images.map((image) => (
+              <S.AnimalPictureSwiperSlide key={image}>
                 <Image
                   src={`data:image/jpeg;base64,${image}`}
                   alt="Animal"
