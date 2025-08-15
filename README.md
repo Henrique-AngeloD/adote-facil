@@ -2,7 +2,7 @@
 **Integrantes do grupo:**
   - Henrique Ângelo Duarte Alves - 23.1.8028
   - Luis Eduardo Bastos Rocha - 23.1.8095
-  - Bianca Fernanda Tomé - 21.1.8189
+  - Bianca Fernandes Tomé - 21.1.8189
 
 
 # Projeto Adote Fácil
